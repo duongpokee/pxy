@@ -44,4 +44,4 @@ echo "RESTARTING SERVICES..."
 systemctl restart squid.service
 echo -e "RESTART SERVICES - [OK]\n"
 
-echo "YOUR PROXY SERVER IS READY - IP: $ip PORT: 8080"
+echo "YOUR PROXY SERVER IS READY - IP: $ip PORT: 25037"
